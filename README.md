@@ -6,6 +6,4 @@ Thực hành lập trình hướng đối tượng theo hướng dẫn của th�
  - Thông thường biến toàn cục được khai báo ở đầu chương trình
  - Lưu ý: biến khai báo bên trong hàm main không là biến cục bộ mà là biến cục bộ của hàm main.  
 ## LỚP ĐỐI TƯỢNG (Class)
-```
-   Hiểu một cách đơn giản là sự tích hợp của hai thành phần:  __Thành phần dữ liệu__ và __Thành phần xử lý__  
-```
+   Hiểu một cách đơn giản là sự tích hợp của hai thành phần: **Thành phần dữ liệu** và **Thành phần xử lý**  
